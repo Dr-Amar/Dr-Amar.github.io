@@ -9,16 +9,16 @@ My publication record spans **mineral geochemistry, economic geology, GeoAI, sed
 
 ## Selected GeoAI & mineral-exploration research
 
-### 2026
+### Published / version of record
 
-- **Big Data mining on Galena geochemistry using machine learning algorithms: Implications for Metallogenic Discrimination** — *Mathematical Geosciences*.
-- **Artificial Intelligence-Driven Metallogenic Typing of Pyrite from Global Ore Systems** — *Journal of Geochemical Exploration*.
+- **Big Data Mining on Galena Geochemistry Using Machine Learning Algorithms: Implications for Metallogenic Discrimination** — *Mathematical Geosciences*. **Published online / Early Access, 4 April 2026.** [DOI](https://doi.org/10.1007/s11004-026-10274-0)
+- **Artificial Intelligence-Driven Metallogenic Typing of Pyrite from Global Ore Systems** — *Journal of Geochemical Exploration*, **Volume 289 (October 2026), Article 108138; available online 9 June 2026.** [DOI](https://doi.org/10.1016/j.gexplo.2026.108138)
+- **Ore genesis and critical metal enrichment using deep learning algorithms in Gunga Pb-Zn deposit Southern Pakistan: Constraints from geochemistry and isotopic compositions** — *Journal of Geochemical Exploration* (2025). **Published.** [DOI](https://doi.org/10.1016/j.gexplo.2025.107771)
+- **Machine Learning-Driven Classification of Pb-Zn Ore Deposits Using Pyrite Trace Elements and Isotopic Signatures: A Case Study of the Gunga Deposit** — *Journal of Geochemical Exploration* (2025). **Published.** [DOI](https://doi.org/10.1016/j.gexplo.2025.107693)
 
-### 2025
+### Manuscript under revision
 
-- **Machine learning-based classification of pyrite geochemistry for discriminating tectonic settings in sedimentary environments: Insights from big data analysis and interpretable SHAP model** — *Gondwana Research*.
-- **Ore genesis and critical metal enrichment using deep learning algorithms in Gunga Pb-Zn deposit Southern Pakistan: Constraints from geochemistry and isotopic compositions** — *Journal of Geochemical Exploration*. [DOI](https://doi.org/10.1016/j.gexplo.2025.107771)
-- **Machine Learning-Driven Classification of Pb-Zn Ore Deposits Using Pyrite Trace Elements and Isotopic Signatures: A Case Study of the Gunga Deposit** — *Journal of Geochemical Exploration*. [DOI](https://doi.org/10.1016/j.gexplo.2025.107693)
+- **Machine learning-based classification of pyrite geochemistry for discriminating tectonic settings in sedimentary environments: Insights from big data analysis and interpretable SHAP model** — *Gondwana Research*. **Revision submitted.**
 
 ## Selected broader geoscience research
 
@@ -33,6 +33,6 @@ My publication record spans **mineral geochemistry, economic geology, GeoAI, sed
 
 ## Research repositories
 
-Code and research assets associated with selected geochemical AI studies are available through my **[GitHub profile](https://github.com/Dr-Amar)** and the [Projects page](/projects/).
+Code and research assets associated with selected GeoAI and mineral-geochemistry studies are available through my **[GitHub profile](https://github.com/Dr-Amar)** and the [Projects page](/projects/).
 
-<div class="notice">Publication metadata and status may change as papers move through online-first, issue assignment, or indexing. Google Scholar and publisher records are the preferred authority for the latest citation state.</div>
+<div class="notice">Publication metadata and status may change as papers move through online-first, issue assignment, revision, or indexing. Google Scholar and publisher records are the preferred authority for the latest citation state.</div>
