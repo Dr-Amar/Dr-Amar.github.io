@@ -124,7 +124,7 @@ layout: home
 
 <section class="section-shell">
   <p class="section-kicker">Open research portfolio</p>
-  <h2 class="section-title">Public repositories supporting my geochemical AI research.</h2>
+  <h2 class="section-title">Public repositories supporting my GeoAI and mineral-geochemistry research.</h2>
   <div class="card-grid">
     <article class="repo-card">
       <span class="card-label">Pyrite · global ore systems</span>
@@ -157,8 +157,8 @@ layout: home
   <div class="aimex-mark">AIMEX</div>
   <div>
     <p class="section-kicker">Research initiative</p>
-    <h2>AIMEX Lab is now a separate research organization.</h2>
-    <p>I founded AIMEX Lab as an independent platform for GeoAI research, collaboration, reproducible benchmarking, and mineral-exploration methodology. The lab now has its own website and GitHub organization, separate from this personal portfolio.</p>
+    <h2>AIMEX Lab — an independent GeoAI research initiative.</h2>
+    <p>I founded AIMEX Lab as a platform for collaborative GeoAI research, reproducible benchmarking, and mineral-exploration methodology. AIMEX has its own website and GitHub organization and complements my personal research portfolio.</p>
     <a class="button button-primary" href="https://aimex-geoai.github.io">Visit AIMEX Lab</a>
   </div>
 </section>
