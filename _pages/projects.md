@@ -1,89 +1,57 @@
 ---
 title: Projects
-layout: page
 permalink: /projects/
-
 ---
 
-<!-- AUTO-GENERATED:PROJECTS:START -->
-## [Pyrite-Gunga-Pb-Zn-Deposit--Machine-Learning](https://github.com/Dr-Amar/Pyrite-Gunga-Pb-Zn-Deposit--Machine-Learning)
-ML-driven classification of Pb–Zn deposits using pyrite trace elements + isotopes.
+# Projects
 
-- RF/GB/SVM/MLP; LOGO validation
-- Explainability: SHAP, t-SNE/UMAP
+This page separates **public research repositories** from **professional or proprietary R&D**. Public links point to code or research assets that are intentionally released. Professional systems are described only at capability level unless ownership and release are explicitly clear.
 
-**Tags:** Geochemistry, ML, Pb-Zn, Pyrite
+## Public research repositories
 
----
+### Pyrite AI metallogenic typing
+Global pyrite-geochemistry research for metallogenic discrimination using interpretable machine learning and deposit-aware validation.
 
-## [Sphalerite-Gunga-Pb-Zn-DeepLearning](https://github.com/Dr-Amar/Sphalerite-Gunga-Pb-Zn-DeepLearning)
-Deep learning on sphalerite geochemistry + isotopes for mineralization-zone classification.
+[Repository](https://github.com/Dr-Amar/Pyrite-AI-metallogenic-typing)
 
-- Critical metal enrichment signals (Ge, Cd, Ag, Sb)
+### Galena geochemistry & metallogenic discrimination
+Big-data analysis of galena geochemistry for Pb-Zn metallogenic discrimination using machine-learning workflows designed for imbalanced geological datasets.
 
-**Tags:** Deep Learning, Sphalerite, Critical Metals
+[Repository](https://github.com/Dr-Amar/Galena-Geochemistry-ML-Metallogenic-Discrimination)
 
----
+### Gunga Pb-Zn pyrite machine learning
+Pyrite trace-element and isotope data used to evaluate machine-learning discrimination of Pb-Zn mineralization and geological classes.
 
-## Big-Data Mining of Pyrite Geochemistry
-Compilation of ~5,200 analyses from 138 deposits worldwide; deposit-type discrimination with interpretable ML.
+[Repository](https://github.com/Dr-Amar/Pyrite-Gunga-Pb-Zn-Deposit--Machine-Learning)
 
-- AUC > 0.99 in multiple models
-- Explainability: SHAP-based interpretation
+### Gunga sphalerite deep learning
+Sphalerite geochemistry and isotope research focused on mineralization-zone discrimination and critical-metal signals, including Ge-bearing sphalerite.
 
-**Tags:** Big Data, Pyrite, Metallogeny, XGBoost, SHAP
+[Repository](https://github.com/Dr-Amar/Sphalerite-Gunga-Pb-Zn-DeepLearning)
 
----
+## Selected professional R&D
 
-## [Big-Data Mining of Galena Geochemistry](https://github.com/Dr-Amar/Galena-Geochemistry-ML-Metallogenic-Discrimination)
-ML-based classification of galena from 37 global Pb–Zn deposits using imbalance-aware workflows (SMOTE/RUC).
+### GeoAnomalyAI
+Multivariate anomaly-intelligence platform for exploration geochemistry. Work includes pattern discovery, correlation logic, outlier diagnostics, clustering, manifold learning, anomaly scoring, spatial confidence validation, and target-priority ranking.
 
-- Best model accuracy: 98.19%
+### GeoSpectraAI
+Multimodal exploration workflow integrating remote-sensing/spectral, geological, geochemical, structural, field, and spatial evidence for prospectivity screening and target-confidence assessment.
 
-**Tags:** Big Data, Galena, Pb-Zn, Imbalanced Learning
+### Target detection & spatial decision support
+AI-assisted target-ranking workflows combining cleaned geochemical data, anomaly evidence, uncertainty products, geostatistical outputs, spatial validation, map QA, and reproducible field deliverables.
 
----
+### Geostatistical / GPU R&D
+Python-based sequential Gaussian simulation and spatial uncertainty workflows, including GPU/CUDA experimentation for scalable simulation and computational geoscience.
 
-## Interactive AI Web Apps for Deposit Prediction
-Python + Gradio tools for real-time deposit-type prediction using mineral-chemistry inputs.
+## Exploration applications
 
-- Interactive inference + explainability-ready design
+### Saudi Arabia — Arabian Shield
+Mineral-potential modelling, exploration-screening workflows, target ranking, and integrated geological, geochemical, geophysical, structural, spectral, and remote-sensing interpretation.
 
-**Tags:** Gradio, Python, Decision Support, Exploration AI
+### Mauritania — Sahara Gold
+AI-assisted gold targeting using soil geochemistry, remote sensing, geological interpretation, anomaly detection, target-confidence assessment, trench/drill evidence, and report automation.
 
----
+### Tanzania — Mpanda-Mbozi-Karema
+Multi-element QA/QC, sample-type interpretation, detection-limit and outlier review, spatial-pattern analysis, anomaly confidence, and target-consistency checks for exploration decisions.
 
-## Regional Alteration Mapping of the Arabian Shield
-Landsat-8/9 alteration mapping across ~600,000 km² with supervised classification and AI-assisted prospectivity modeling.
-
-- Regional-scale mapping for exploration targeting
-
-**Tags:** Remote Sensing, Arabian Shield, Prospectivity, GIS
-
----
-
-## National-Scale Mineral Potential Mapping & Economic Analysis (Saudi Arabia)
-Spatial mapping and economic assessment of mineral deposits and prospects across Saudi Arabia to support strategic exploration planning and investment prioritization.
-
-- National-scale mapping of high- and low-grade mineral deposits and occurrences
-- High-resolution mineral potential maps and interactive GIS dashboards
-- Integrated geological, geochemical, and spatial data analysis
-- Decision-support analytics for exploration prioritization and investment planning
-- Alignment with Saudi Vision 2030 and sustainable mining strategy
-
-**Tags:** Mineral Exploration, GIS, Economic Analysis, Saudi Arabia, Vision 2030
-
----
-
-## National Geological Database (NGD) – Data Model & Management
-Saudi Vision 2030 NGD program: geological data modeling, ETL pipelines, QA/QC, and ISO/OGC-aligned geospatial standards.
-
-- Structured & unstructured geological data models
-- ETL workflows and data quality assessment
-- Cloud-based, AI-ready national geoscience infrastructure
-
-**Tags:** NGD, Geospatial, Data Engineering, ISO, OGC
-
----
-
-<!-- AUTO-GENERATED:PROJECTS:END -->
+> **IP and release boundary:** proprietary employer, client, or collaboration code and unpublished datasets are not made public here unless release is explicitly authorized.
