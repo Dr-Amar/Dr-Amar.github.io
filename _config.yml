@@ -1,19 +1,13 @@
-title: "AIMEX Lab"
-description: "Artificial Intelligence for Mineral Exploration Laboratory"
-theme: minima
-
-header_pages:
-  - _pages/about.md
-  - _pages/projects.md
-  - _pages/publications.md
-  - _pages/contact.md
-
+title: Dr. Muhammad Amar Gul
+description: Geoscientist and applied AI/ML researcher working across mineral discovery, geochemistry, GeoAI, spatial data science, and scientific software.
+url: https://dr-amar.github.io
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+include:
+  - _pages
 defaults:
   - scope:
       path: ""
     values:
       layout: page
-
-include:
-  - _pages
-
